@@ -30,7 +30,7 @@ Built with **CodeIgniter 4**, featuring **JWT authentication**, migrations, seed
 ### 1. Clone repo & install dependencies
 
 ```bash
-git clone https://github.com/<your-username>/fullstack-task-backend.git
+git clone https://github.com/AY-OmoP/fullstack-task-backend.git
 cd fullstack-task-backend
 composer install
 ```
