@@ -1,0 +1,12 @@
+{
+  "name": "ci4-backend-fixed",
+  "type": "project",
+  "require": {
+    "php": "^8.0",
+    "codeigniter4/framework": "^4.5",
+    "firebase/php-jwt": "^6.10"
+  },
+  "scripts": {
+    "start": "php spark serve"
+  }
+}
